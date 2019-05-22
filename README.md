@@ -1,2 +1,2 @@
-# cmpt354
+# CMPT 354
 Database Systems I
