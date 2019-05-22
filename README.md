@@ -1,7 +1,7 @@
 # CMPT 354
 Database Systems I
 
-Assignment 1 - #SQL Basics
+Assignment 1 - SQL Basics
   - How to create a database
   - How to create a table 
   - How to change a table after creation
