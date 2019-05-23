@@ -1,6 +1,8 @@
 # README
 
-Assignment 2
+SQLite3 assignment using jupyter notebook
+
+This assignment contains:
 
  - How to use patterns to find matching information
  - How to use Order By to sort data
