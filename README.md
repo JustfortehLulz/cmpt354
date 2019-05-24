@@ -1,6 +1,8 @@
 # CMPT 354
 Database Systems I
 
+SQLite3 assignment using jupyter notebook
+
 Assignment 1 - SQL Basics
   - How to create a database
   - How to create a table 
